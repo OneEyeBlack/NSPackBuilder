@@ -6,6 +6,4 @@ Select from the available PACKAGES, SYSMODULES, HOMEBREWS and FILES options to d
 
 Optionally, there is an option to format the SDCard to FAT32 and another option to automatically copy the package to the SDCard.
 
-![image](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/e65aa928-8437-497d-94dc-dbeb01a4a18d)
-
-
+![image](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/c173594e-e401-4491-b4bc-a43bb3837978)
