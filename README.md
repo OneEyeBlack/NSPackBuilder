@@ -8,4 +8,5 @@ Optionally, there is an option to format the SDCard to FAT32 and another option 
 
 ![image](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/ebc456ba-129d-48ef-aa24-07cf47fdb05d)
 
+![image](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/ce7f57eb-4fec-4744-a85b-e07184a7362a)
 
