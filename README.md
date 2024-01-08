@@ -1,11 +1,12 @@
 # NSPackBuilder
 
-NSPackBuilder is a program that creates custom packs for your Switch. You can choose from the various PACKAGES, SYSMODULES, HOMEBREWS and FILES options available for download directly from their respective repositories.
+NSPackBuilder is a program that creates custom packs for your Switch. 
 
 Some of the features of this program also include:
-1. Download ready-made packages, such as Kefir, 4ifir and Ultra.
-2. Tools for your SDcard, for example, Create and restore images from your own SDcard.
-3. Change the Bootlogo of your package.
+1. You can choose from the various PACKAGES, SYSMODULES, HOMEBREWS and FILES options available for download directly from their respective repositories.
+2. Download ready-made packages, such as Kefir, 4ifir and Ultra.
+3. Tools for your SDcard, for example, Create and restore images from your own SDcard.
+4. Change the Bootlogo of your package.
 
 This project is still a work in progress. New features and options are in the works...
 
