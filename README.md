@@ -36,35 +36,35 @@ for use in Switch file handling software.
 ° Firmware: is the official Nintendo Switch system. It is necessary if you need to update your Switch system.
 
 # SYSMODULES
-° Edizon Se: is a sysmodule and program that load cheats into your games.
+° Edizon Se: Sysmodule and program that load cheats into your games.
 
-° FPSLocker: is a sysmodule that allows to change the FPS of the game.
+° FPSLocker: Sysmodule that allows to change the FPS of the game.
 
-° Misson Control: is a sysmodule that allow you use bluetooth controller from other consoles.
+° Misson Control: Sysmodule that allow you use bluetooth controller from other consoles.
 
-° NX-Ovlloader: is a sysmodule to load .OVL files on Tesla Menu.
+° NX-Ovlloader: Sysmodule to load .OVL files on Tesla Menu.
 
-° OvlSysmodule: is a sysmodule that allows you to toggle sysmodules on the fly.
+° OvlSysmodule: Sysmodule that allows you to toggle sysmodules on the fly.
 
-° QuickNTP: is a sysmodule to update your Switch's clock using a list of public NTP servers.
+° QuickNTP: Sysmodule to update your Switch's clock using a list of public NTP servers.
 
-° ReverseNx-RT: is a Tesla Overlay that force games to think that you are using docked or handheld mode.
+° ReverseNx-RT: Tesla Overlay that force games to think that you are using docked or handheld mode.
 
-° SaltyNX: is a sysmodule required to run programs in the background.
+° SaltyNX: Sysmodule required to run programs in the background.
 
-° Status Monitor Overlay: is a sysmodule that show CPU, GPU, Temperature and mode on screen.
+° Status Monitor Overlay: Sysmodule that show CPU, GPU, Temperature and mode on screen.
 
-° Switch OC Suite: is a sysmodule that allow you to overclocking your Suite.
+° Switch OC Suite: Sysmodule that allow you to overclocking your Suite.
 
-° Sys-cl:k is a sysmodule allowing you to set CPU/GPU/MEM clocks according to the running application and docked state.
+° Sys-cl:k Sysmodule allowing you to set CPU/GPU/MEM clocks according to the running application and docked state.
 
-° Sys-FTPd: is a sysmodule that allow you to set and get files to your Switch over FTP.
+° Sys-FTPd: Sysmodule that allow you to set and get files to your Switch over FTP.
 
-° Tesla Menu: is the initial overlay menu to be loaded by nx-ovlloader.
+° Tesla Menu: Initial overlay menu to be loaded by nx-ovlloader.
 
-° Ultrahand Overlay is a "Tesla Menu enhanced" with more feactures.
+° Ultrahand Overlay: "Tesla Menu enhanced" with more feactures.
 
-°  Is a enhanced sysmodule that show CPU, GPU, RAM and TEMP and more on screen.
+° Ultra Status Monitor: Enhanced sysmodule that show CPU, GPU, RAM and TEMP and more on screen.
 
 # HOMEBREWS
 ° AIO Switch Updater: Homebrew app to download and update CFWs, FWs and cheat codes.
