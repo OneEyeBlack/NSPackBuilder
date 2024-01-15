@@ -5,8 +5,6 @@ NSPackBuilder is a program that creates custom packs for your Switch.
 ![image](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/8642d344-0a4a-4fba-ae37-46fe0a0cc10a)
 
 
-Some of the features of this program also include:
-
 # Base
 ° Atmosphere: Pure CFW for use you unlock Nintendo Switch.
 
@@ -123,4 +121,15 @@ such as PS4, PS5, XBOX and more on you Switch.
 ° Keep NYX: Keep the bootloader\nyx.ini file.
 
 ° Keep THEMES: Keep the THEMES folder. Alter start the Switch you'll need to apply the theme again.
+
+° Release Versions: Display the most current Release Version of each item in the github repository.
+
+° Delete Temp. Folder: It'll delete all downloaded files storage at you computer.
+
+° Open Pack Folder: Open the folder where the Pack was created.
+
+° Close After Finished: Close the program when everything is finished.
+
+# BOOTLOGO
+° Add: Select and add a customized Bootlogo into your package.
 
