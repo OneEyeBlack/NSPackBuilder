@@ -109,4 +109,18 @@ as power management for each CPU. If you plan to use Atmosphere on SysNAND for o
 
 ° Tesla Config file: Change the combination buttons to access the Tesla menu.
 
+# OPTIONALS
+° Copy Pack to Drive: It will copy all downloaded files to your SD card. Identical contents on the SDcard will be replaced.
+
+° Format to FAT32: Format your SDcard to Fat32 before copy all contents.
+
+° Erase SDcard / Keep emuMMC: When checked, it'll keep the emuMMC folder, but all remain folder and files will be deleted.
+
+° Keep MODS: Keeps the atmosphere\contents folder.
+
+° Keep DBI Saves: Keep the DBISaves folder.
+
+° Keep NYX: Keep the bootloader\nyx.ini file.
+
+° Keep THEMES: Keep the THEMES folder. Alter start the Switch you'll need to apply the theme again.
 
