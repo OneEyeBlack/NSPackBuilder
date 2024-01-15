@@ -40,8 +40,7 @@ for use in Switch file handling software.
 
 ° FPSLocker: is a sysmodule that allows to change the FPS of the game.
 
-° Misson Control: is a sysmodule that allow you use bluetooth controller from other consoles
-such as PS4, PS5, XBOX and more on you Switch.
+° Misson Control: is a sysmodule that allow you use bluetooth controller from other consoles.
 
 ° NX-Ovlloader: is a sysmodule to load .OVL files on Tesla Menu.
 
