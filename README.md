@@ -8,15 +8,15 @@ NSPackBuilder is a program that creates custom packs for your Switch.
 
 
 # Base
-° Atmosphere: Pure CFW for use you unlock Nintendo Switch.
+° **Atmosphere:** Pure CFW for use you unlock Nintendo Switch.
 
-° Kefir: A complete package for Nintendo Switch.
+° **Kefir:** A complete package for Nintendo Switch.
 
-° 4ifir: A complete package for Nintendo Switch.
+° **4ifir:** A complete package for Nintendo Switch.
 
-° Ultra: A complete package for Nintendo Switch.
+° **Ultra:** A complete package for Nintendo Switch.
 
-° CNX: A complete package for Nintendo Switch.
+° **CNX:** A complete package for Nintendo Switch.
 
 ° Hekate: is a powerful and user-friendly bootloader for the Nintendo Switch that allows users to 
 customize and control their device's boot process. With this program you can choose if your Switch 
