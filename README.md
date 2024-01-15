@@ -91,8 +91,7 @@ such as PS4, PS5, XBOX and more on you Switch.
 ° Tinfoil: Is an store manager.
 
 # FILES
-° Atmosphere Exosphere file: Is a customized reimplementation of the Horizon OS's Secure Monitor. The Secure Monitor follows the same design principle as Arm's TrustZone and both terms can be used interchangeably in this context. It runs at the highest privilege mode (EL3) available to the main processor and is responsible for all the sensitive cryptographic operations needed by the system as well 
-as power management for each CPU. If you plan to use Atmosphere on SysNAND for online play and EmuNAND for offline play, rename the file to emummc.txt.
+° Atmosphere Exosphere file: A base Custom Firmware for your Nintendo Switch.
 
 ° Atmosphere Override file: Settings for the Atmospheresuch as change the buttons to access the Homebrews and change the buttons to start a game without cheats.
 
