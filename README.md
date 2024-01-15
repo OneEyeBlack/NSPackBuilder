@@ -133,3 +133,10 @@ such as PS4, PS5, XBOX and more on you Switch.
 # BOOTLOGO
 ° Add: Select and add a customized Bootlogo into your package.
 
+# SDCARD
+° Create Image: Create a Image File from this drive above.
+
+° Restore Image: Restore a Image File into drive above.
+
+° Format now: Format now your drive to FAT32.
+
