@@ -3,7 +3,6 @@
 **NSPackBuilder** is a program that creates custom packs for your Switch.
 
 Donation PIX: 
-QR Code: ![WhatsApp Image 2024-01-17 at 00 28 15_386a6054](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/11cb69da-ab26-4d5e-9544-9103d279c4fc)
 Key: d5f0ea6b-0a1f-4487-85eb-4c738358e529
 
 ![image](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/55ae7e1c-8497-4e05-9101-7b532dbb9d0f)
