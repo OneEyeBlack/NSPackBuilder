@@ -2,9 +2,10 @@
 
 **NSPackBuilder** is a program that creates custom packs for your Switch.
 
-![image](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/55ae7e1c-8497-4e05-9101-7b532dbb9d0f)
+![image](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/24ed4b43-e08f-4b7d-b17a-0da2809823fe)
 
 
+![image](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/1f9ce9ce-1808-4342-94e8-b361b4d5e9bb)
 
 
 
