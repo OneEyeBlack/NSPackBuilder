@@ -20,6 +20,10 @@
 
 ° **CNX:** A complete package for Nintendo Switch.
 
+° **GNX:** A complete package for Nintendo Switch.
+
+° **HATS:** A complete package for Nintendo Switch.
+
 ° **Hekate:** is a powerful and user-friendly bootloader for the Nintendo Switch.
 
 ° **Fusée:** is a First-stage Loader, responsible for loading and validating stage 2 (custom TrustZone) plus package2 (Kernel/FIRM sysmodules), and patching them as needed.
@@ -66,6 +70,8 @@
 # HOMEBREWS
 ° **AIO Switch Updater:** Homebrew app to download and update CFWs, FWs and cheat codes.
 
+° **CNX Updater:** Homebrew app to download Firmware, games translations and mods.
+
 ° **DBI:** Homebrew app to install NSP, NSZ, XCI and XCZ files and more features.
 
 ° **Goldleaf:** File Manager homebrews app with others features.
@@ -77,6 +83,8 @@
 ° **Linkalho:** Homebrew app that will link NNID accounts offline.
 
 ° **NX Activity Log:** homebrew app that displays more precise information about your play activity.
+
+° **NX Dump Tool:** homebrew app that create Dumps from cartriges.
 
 ° **NXGallery:** Hhomebrew app to transfer your screenshots to your phone or pc.
 
