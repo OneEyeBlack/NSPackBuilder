@@ -144,5 +144,5 @@
 
 ° **Restore Image:** Restore a Image File into drive above.
 
-° **Format now:** Format now your drive to FAT32.
+° **Format now:** Format now your drive to FAT32 with unit size of 64k.
 
