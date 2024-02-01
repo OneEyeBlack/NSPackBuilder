@@ -131,7 +131,7 @@
 
 ° **Release Versions:** Display the most current Release Version of each item in the github repository.
 
-° **Delete Temp. Folder:** It'll delete all downloaded files storage at you computer.
+° **Keep Temp. Folder:** It'll keep the "Downloaded Files" folder storage at you computer.
 
 ° **Open Pack Folder:** Open the folder where the Pack was created.
 
