@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=header"/>
 
+![Banner](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/90013607-41cf-4ff9-9cf4-ca39218d1d63)
+
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total)
 ![Crates.io Total Downloads](https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total.svg)
 ![GitHub User's stars](https://img.shields.io/github/stars/OneEyeBlack)
