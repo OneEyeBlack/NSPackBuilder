@@ -1,18 +1,9 @@
 # NSPackBuilder
-
-![Crates.io Total Downloads](https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total.svg)
-<img src="https://camo.githubusercontent.com/90a9c49b6d7f7cebfbb924b2d88591cf69a52fb53d568fb6af82e62b52d51641/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f616d736e782f636e782f746f74616c" alt="GitHub All Releases" data-canonical-src="https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total" style="max-width: 100%;">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneeyeblack&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura_dark&bg_color=000000&title_color=ff0000&text_color=ff0000)
-
-
-
-
-
-
-
-
 **NSPackBuilder** is a program that creates custom packs for your Switch.
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total)
+![GitHub User's stars](https://img.shields.io/github/stars/OneEyeBlack)
+
 
 ![Promotion3](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/79646355-21b7-4a83-9502-b17b30e11d2c)
 
