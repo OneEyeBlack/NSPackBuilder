@@ -1,6 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=header"/>
+![Banner for Github](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/5c4eeadb-d6b3-4cbd-8d73-9b4699d5a515)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=75&section=header"/>
+# NSPackBuilder
+**NSPackBuilder** is a program that creates custom packs for your Switch.
 
-![Banner](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/90013607-41cf-4ff9-9cf4-ca39218d1d63)
+
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total)
 ![Crates.io Total Downloads](https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total.svg)
@@ -12,6 +15,12 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oneeyeblack&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<div align="center">
+<br><p align="centre"><b>Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/oneeyeblack/count.svg" /></p>
+<br></div>
+I
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=75&section=footer"/>
+
