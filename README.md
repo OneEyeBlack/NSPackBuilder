@@ -1,4 +1,8 @@
 # NSPackBuilder
+<img src="https://camo.githubusercontent.com/bf8962a2d985219e281f60c10f5d8acfe759022b887d33ef88b9700cb63daa2f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f4e61657265656e2f5374726170446f776e2e6a732f746f74616c2e737667" data-canonical-src="https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total.svg" style="max-width: 100%;">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneeyeblack&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura_dark&bg_color=000000&title_color=ff0000&text_color=ff0000)
+
 
 https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total.svg
 
