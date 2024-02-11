@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=header"/>
+
 # NSPackBuilder
 **NSPackBuilder** is a program that creates custom packs for your Switch.
 
@@ -141,4 +143,6 @@ For suggestions or comments: <a href="mailto:tellme.dingbat878@passfwd.com">cont
 ° **Restore Image:** Restore a Image File into drive above.
 
 ° **Format now:** Format now your drive to FAT32 with unit size of 64k.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
 
