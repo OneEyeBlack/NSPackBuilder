@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=header"/>
-
+![Banner for Github](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/5c4eeadb-d6b3-4cbd-8d73-9b4699d5a515)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=65&section=header"/>
 # NSPackBuilder
 **NSPackBuilder** is a program that creates custom packs for your Switch.
 
