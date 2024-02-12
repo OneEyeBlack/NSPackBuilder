@@ -3,6 +3,7 @@
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total)
 ![Crates.io Total Downloads](https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total.svg)
+[![](https://visitcount.itsvg.in/api?id=oneeyeblack&icon=1&color=12)](https://visitcount.itsvg.in)
 ![GitHub User's stars](https://img.shields.io/github/stars/OneEyeBlack)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneeyeblack&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura_dark&bg_color=000000&title_color=ff0000&text_color=ff0000)
@@ -16,7 +17,6 @@
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/oneeyeblack/count.svg" style="color: red;" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=oneeyeblack&icon=1&color=12)](https://visitcount.itsvg.in)
 
 <div align="center">
 <br><p align="centre"><font color="red"><b>Count</b></p>
