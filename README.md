@@ -3,8 +3,6 @@
 # NSPackBuilder
 **NSPackBuilder** is a program that creates custom packs for your Switch.
 
-For suggestions or comments: <a href="mailto:tellme.dingbat878@passfwd.com">contact me</a>
-
 ![Promotion3](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/79646355-21b7-4a83-9502-b17b30e11d2c)
 
 # Base
@@ -91,6 +89,8 @@ For suggestions or comments: <a href="mailto:tellme.dingbat878@passfwd.com">cont
 <br><p align="centre"><font color="red"><b>Count</b></p>
 <p align="center"><font color="red"><img align="center" src="https://profile-counter.glitch.me/oneeyeblack/count.svg" /></p>
 <br></div>
+
+For suggestions or comments: <a href="mailto:tellme.dingbat878@passfwd.com">contact me</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=75&section=footer"/>
 
