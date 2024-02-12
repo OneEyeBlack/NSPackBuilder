@@ -16,11 +16,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oneeyeblack&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/oneeyeblack/count.svg" style="color: red;" /></p>
-
-
-<div align="center">
-<br><p align="centre"><font color="red"><b>Count</b></p>
-<p align="center"><font color="red"><img align="center" src="https://profile-counter.glitch.me/oneeyeblack/count.svg" /></p>
-<br></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=75&section=footer"/>
