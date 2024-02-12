@@ -144,5 +144,10 @@ For suggestions or comments: <a href="mailto:tellme.dingbat878@passfwd.com">cont
 
 ° **Format now:** Format now your drive to FAT32 with unit size of 64k.
 
+<div align="center">
+<br><p align="centre"><font color="red"><b>Count</b></p>
+<p align="center"><font color="red"><img align="center" src="https://profile-counter.glitch.me/oneeyeblack/count.svg" /></p>
+<br></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
 
