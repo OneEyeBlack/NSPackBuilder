@@ -89,7 +89,3 @@
 For suggestions or comments: <a href="mailto:tellme.dingbat878@passfwd.com">contact me</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=75&section=footer"/>
-<div align="center">
-<br><p align="centre"><font color="red"><b>Count</b></p>
-<p align="center"><font color="red"><img align="center" src="https://profile-counter.glitch.me/oneeyeblack/count.svg" /></p>
-<br></div>
