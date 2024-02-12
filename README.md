@@ -149,5 +149,5 @@ For suggestions or comments: <a href="mailto:tellme.dingbat878@passfwd.com">cont
 <p align="center"><font color="red"><img align="center" src="https://profile-counter.glitch.me/oneeyeblack/count.svg" /></p>
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=75&section=footer"/>
 
