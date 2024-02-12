@@ -16,9 +16,9 @@
 - **Hekate:** is a powerful and user-friendly bootloader for the Nintendo Switch.
 - **Boot Files** Files necessary to boot some packages.
 - **Fusée:** is a First-stage Loader, responsible for loading and validating stage 2 (custom TrustZone) plus package2 (Kernel/FIRM sysmodules), and patching them as needed.
-- **Lockpick:** RCM:** is a bare payload that derives encryption keys for use in Switch file handling software.
-- **Tegra:** Explorer:** is a File Manager that run as payload.
-- **Signature:** Patches:** is a set of files necessary for the Switch to be able to run games.
+- **Lockpick RCM:** is a bare payload that derives encryption keys for use in Switch file handling software.
+- **Tegra Explorer:** is a File Manager that run as payload.
+- **Signature Patches:** is a set of files necessary for the Switch to be able to run games.
 - **Firmware:** is the official Nintendo Switch system. It is necessary if you need to update your Switch system.
 
 # SYSMODULES
