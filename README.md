@@ -1,6 +1,9 @@
 ![Banner for Github](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/5c4eeadb-d6b3-4cbd-8d73-9b4699d5a515)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=65&section=header"/>
 # NSPackBuilder
+![Downloads](https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total)
+![Stars](https://img.shields.io/github/stars/OneEyeBlack)
+
 **NSPackBuilder** is a program that creates custom packs for your Switch.
 
 ![Promotion3](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/79646355-21b7-4a83-9502-b17b30e11d2c)
