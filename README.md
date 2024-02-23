@@ -12,7 +12,6 @@
 - **Ultra:** A complete package for Nintendo Switch.
 - **CNX:** A complete package for Nintendo Switch.
 - **GNX:** A complete package for Nintendo Switch.
-- **HATS:** A complete package for Nintendo Switch.
 - **Hekate:** is a powerful and user-friendly bootloader for the Nintendo Switch.
 - **Boot Files** Files necessary to boot some packages.
 - **Fusée:** is a First-stage Loader, responsible for loading and validating stage 2 (custom TrustZone) plus package2 (Kernel/FIRM sysmodules), and patching them as needed.
