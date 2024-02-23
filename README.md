@@ -6,19 +6,19 @@
 ![Promotion3](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/79646355-21b7-4a83-9502-b17b30e11d2c)
 
 # Base
-- **Atmosphere:** Pure CFW for use you unlock Nintendo Switch.
-- **Kefir:** A complete package for Nintendo Switch.
-- **4ifir:** A complete package for Nintendo Switch.
-- **Ultra:** A complete package for Nintendo Switch.
-- **CNX:** A complete package for Nintendo Switch.
-- **GNX:** A complete package for Nintendo Switch.
-- **Hekate:** is a powerful and user-friendly bootloader for the Nintendo Switch.
+- **Atmosphere:** Pure CFW for use you unlock .
+- **Kefir:** A complete package.
+- **4ifir:** A complete package.
+- **Ultra:** A complete package.
+- **CNX:** A complete package.
+- **GNX:** A complete package.
+- **Hekate:** is a powerful and user-friendly bootloader for the .
 - **Boot Files** Files necessary to boot some packages.
 - **Fusée:** is a First-stage Loader, responsible for loading and validating stage 2 (custom TrustZone) plus package2 (Kernel/FIRM sysmodules), and patching them as needed.
 - **Lockpick RCM:** is a bare payload that derives encryption keys for use in Switch file handling software.
 - **Tegra Explorer:** is a File Manager that run as payload.
 - **Signature Patches:** is a set of files necessary for the Switch to be able to run games.
-- **Firmware:** is the official Nintendo Switch system. It is necessary if you need to update your Switch system.
+- **Firmware:** is the official  system. It is necessary if you need to update your Switch system.
 
 # SYSMODULES
 - **Edizon Se:** Sysmodule and program that load cheats into your games.
@@ -53,11 +53,11 @@
 - **Tinfoil:** Is an store manager.
 
 # FILES
-- **Atmosphere Exosphere file:** A base Custom Firmware for your Nintendo Switch.
+- **Atmosphere Exosphere file:** A base Custom Firmware for your .
 - **Atmosphere Override file:** Settings for the Atmospheresuch as change the buttons to access the Homebrews and change the buttons to start a game without cheats.
 - **Atmosphere System file:** Settings for the Atmosphere such as Enable USB 3.0 and more.
 - **HB Menu Theme:** Change the theme on HB Menu.
-- **Hosts file:** Is a list of Nintendo's servers that atmosphere use to prevent your Switch to be banned.
+- **Hosts file:** Is a list of 's servers that atmosphere use to prevent your Switch to be banned.
 - **Hekate IPL file:** Launch boot options on Hekate.
 - **Hekate Launch Icons:** Icons for Hekate Launch boots.
 - **Sys FTPd file:** Setting file for Sys FTPd.
