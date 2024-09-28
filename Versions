@@ -1,2 +1,271 @@
 Versions:
 
+NSPackBuilder v60 
+1. Added NX Locale Switcher homebrew.
+2. Updated Lockpick RCM.
+
+NSPackBuilder v59
+1. Keep Nintendo folder if Emunand not exists.
+2. Layout changed.
+
+NSPackBuilder v58
+1. Sys-FTPd port was changed from 5000 to 6000.
+Preset:
+User = switch
+Pass = switch
+Port = 6000
+
+NSPackBuilder v57
+1. Cnx updated.
+
+NSPackBuilder v56
+1. Fix BootLogo error.
+
+NSPackBuilder v55
+1. Internal improvements.
+
+NSPackBuilder v54
+1. Manual updated.
+
+NSPackBuilder v53
+1. Internal improvements.
+
+NSPackBuilder v52
+1. Added MasterVolume sysmodule.
+2. Added MigDumper homebrew.
+
+NSPackBuilder v51
+1. Internal improvements.
+
+NSPackBuilder v50
+1. Fix missing payload.bin file.
+2. Added Counts button to show total download for each component.
+
+NSPackBuilder v49
+1. The program will ALWAYS search and download the last release of Packages, Sysmodules and Homebrews.
+2. New REPO button: Download a copy of all Packages, Sysmodules and Homebrews to create your own repository on pc.
+3. Download speed improvements.
+
+NSPackBuilder v48
+1. Kefir updated.
+2. Cnx updated.
+3. Gnx updated.
+4. Hekate updated.
+5. Tinfoil updated.
+
+NSPackBuilder v47
+1. Atmosphere repo updated.
+2. Firmware repo updated.
+3. MissionControl repo updated.
+
+NSPackBuilder v46
+1. Atmosphere, Kefir, Cnx and Gnx repos updated to firmware 18.
+2. Hekate repo updated to firmware 18.
+3. Bootlogos updated to firmware 18.
+
+NSPackBuilder v45
+1. Kefir's repository updated.
+
+NSPackBuilder v44
+1. Updated some components
+2. Internal improvements.
+
+NSPackBuilder v43
+1. Internal improvements.
+
+NSPackBuilder v42
+1. Lockpick_RCM repo updated.
+2. Added check version windows splash.
+3. Added a manual button at top.
+
+NSPackBuilder v41
+1. Updated repository moved to Codebase.
+2. Labes Status and Elapsed Time has been changed.
+
+NSPackBuilder v40
+1. Hekate repo updated.
+
+NSPackBuilder v39
+1. Fixed some label's hint descriptions.
+
+NSPackBuilder v38
+1. Removed HATS pack.
+2. Fixed a bug that stop Release's check when an repo is offline.
+
+NSPackBuilder v37
+1. Added new Bootlogos.
+2. Added "Send me a mail" icon at top right.
+
+NSPackBuilder v36
+1. All exe files are now separated from the main program.
+2. NSPackBuilderUpdater.exe renamed to NSUpdater.exe.
+3. Internal improvements.
+
+NSPackBuilder v35
+1. Updated Kefir repo. Now it will get it automatically.
+2. Updated HATS repo.
+
+NSPackBuilder v34
+1. Added the missed payload.bin file for Switch with modchip. (_Thanks FOX for this_)
+
+NSPackBuilder v33
+1. Fixed progressbar behavior.
+
+NSPackBuilder v32
+1. Added "Click here to add more items" when you choose Atmosphère.
+2. Added more Bootlogos.
+3. Reduce a bit a program size.
+4. Internal improvements.
+
+NSPackBuilder v31
+1. Kefir pack link updated.
+2. Change the "Keep Temp. Folder" button behavior.
+
+NSPackBuilder v30
+1. Internal improvements.
+
+NSPackBuilder v29
+1. Internal improvements.
+
+NSPackBuilder v28
+1. Added CNX Update homebrew.
+2. Added a Custom option into Pack selection.
+3. Internal improvements.
+
+NSPackBuilder v27
+1. Added an Wizard where you can select your package and customizations.
+2. Added Nx Dump Tools.
+3. Fixed Format Now button. Now it can format to Fat32 with Allocation Unit Size 64kb SDCard with 128gb and larger. 
+
+NSPackBuilder v26
+1. Internal improvements.
+
+NSPackBuilder v25
+1. GNX pack added.
+2. HATS pack added.
+3. Changed the FILES options behavior.
+
+NSPackBuilder v24
+1. CNX pack added.
+2. Some texts changed for better understanding.
+
+NSPackBuilder v23
+1. Internal improvements.
+2. Uncheck options now show release version too.
+
+NSPackBuilder v22
+1. Internal improvements.
+
+NSPackBuilder v21
+1. Modified the pop-up messages for all items for better understanding.
+2. Right-clicking on each item will take you to its repository.
+3. More Bootlogos added.
+
+NSPackBuilder v20
+1. Added Create and Restore Images of SDcard.
+2. Added Kefir, 4ifir and Ultra Package download option.
+
+NSPackBuilder v19
+1. added Firmware download option.
+
+NSPackBuilder v18
+1. Added Bootlogo option.
+
+NSPackBuilder v17
+1. Internal improvements.
+
+NSPackBuilder v16
+1. Modified parameter in exosphere.ini file to improve Switch security.
+
+NSPackBuilder v15
+1. Added the possibility of comparing PC item versions with Github repositories. 
+2. Added a **Releases** button just for check versions.
+
+NSPackBuilder v14
+1. Added Release Version option.
+
+NSPackBuilder v13
+1. Internal improvements.
+
+NSPackBuilder v12
+1. Internal improvements.
+
+NSPackBuilder v11
+1. Added Fusee option.
+2. Added Lockpick RCM option.
+3. Added Tegra Explorer option.
+
+NSPackBuilder v10
+1. Added **Goldleaf** homebrew
+2. Added **NX Activity Log** hombrew
+3. Added **Update Pack on Drive** option
+4. Rename some labels and hints for better understanding.
+5. Program can be resized for small screens resolutions.
+
+NSPackBuilder v9
+1. Add more detailed instructions for the Homebrew Menu installation.
+
+NSPackBuilder v8
+1. Added more time to the Hints.
+
+NSPackBuilder v7
+1. Added procedure for program to update itself.
+
+NSPackBuilder v6
+1. Add automatic version checking in the GitHub repository.
+
+NSPackBuilder v5
+1. Add Linkalho
+
+NSPackBuilder v4
+1. Add Keep THEMES option.
+2. Add Delete Temporary Folder option.
+
+NSPackBuilder v3
+1. Add the **QuickNTP** Sysmodule.
+2. Add **Keep Mods** option.
+3. Add **Keep DBI Saves** option.
+4. Add **Keep NYX** option.
+5. Remove theme when copy Pack to the SDCard.
+
+NSPackBuilder v2
+1. Add the possibity to format SDCard in silence.
+2. Open package folder now opens the SDCard's drive if the "Copy package to drive" is checked.
+3. Add Download size info.
+4. Add Pack size info.
+5. Add Keep Mods option.
+
+NSPackBuilder v1
+**Initial release.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
