@@ -2,7 +2,8 @@ Versions:
 
 NSPackBuilder v60 
 1. Added NX Locale Switcher homebrew.
-2. Updated Lockpick RCM.
+2. Added Fizeau sysmodule.
+3. Updated Lockpick RCM.
 
 NSPackBuilder v59
 1. Keep Nintendo folder if Emunand not exists.
