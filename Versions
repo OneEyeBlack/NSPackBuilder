@@ -1,5 +1,8 @@
 Versions:
 
+NSPackBuilder v61 
+1. Fixed DBI repositories.
+
 NSPackBuilder v60 
 1. Added NX Locale Switcher homebrew.
 2. Added Fizeau sysmodule.
