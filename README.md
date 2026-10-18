@@ -1,94 +1,138 @@
-![Banner for Github](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/5c4eeadb-d6b3-4cbd-8d73-9b4699d5a515)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=65&section=header"/>
 # NSPackBuilder
-**NSPackBuilder** is a program that creates custom packs for your Switch.
 
-![Promotion3](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/79646355-21b7-4a83-9502-b17b30e11d2c)
+[English](README.md) · [Português (Brasil)](README.pt-BR.md)
 
-# Base
-- **Atmosphere:** Pure CFW for use you unlock .
-- **Kefir:** A complete package.
-- **4ifir:** A complete package.
-- **Ultra:** A complete package.
-- **CNX:** A complete package.
-- **GNX:** A complete package.
-- **Hekate:** is a powerful and user-friendly bootloader for the .
-- **Boot Files** Files necessary to boot some packages.
-- **Fusée:** is a First-stage Loader, responsible for loading and validating stage 2 (custom TrustZone) plus package2 (Kernel/FIRM sysmodules), and patching them as needed.
-- **Lockpick RCM:** is a bare payload that derives encryption keys for use in Switch file handling software.
-- **Tegra Explorer:** is a File Manager that run as payload.
-- **Signature Patches:** is a set of files necessary for the Switch to be able to run games.
-- **Firmware:** is the official  system. It is necessary if you need to update your Switch system.
+![NSPackBuilder banner](https://github.com/OneEyeBlack/NSPackBuilder/assets/153041521/5c4eeadb-d6b3-4cbd-8d73-9b4699d5a515)
 
-# SYSMODULES
-- **Edizon Se:** Sysmodule and program that load cheats into your games.
-- **FPSLocker:** Sysmodule that allows to change the FPS of the game.
-- **Misson Control:** Sysmodule that allow you use bluetooth controller from other consoles.
-- **NX-Ovlloader:** Sysmodule to load .OVL files on Tesla Menu.
-- **OvlSysmodule:** Sysmodule that allows you to toggle sysmodules on the fly.
-- **QuickNTP:** Sysmodule to update your Switch's clock using a list of public NTP servers.
-- **ReverseNx-RT:** Tesla Overlay that force games to think that you are using docked or handheld mode.
-- **SaltyNX:** Sysmodule required to run programs in the background.
-- **Status Monitor:** Sysmodule that show CPU, GPU, Temperature and mode on screen.
-- **Switch OC Suite:** Sysmodule that allow you to overclocking your Suite.
-- **Sys-clk:** Sysmodule allowing you to set CPU/GPU/MEM clocks according to the running application and docked state.
-- **Sys-FTPd:** Sysmodule that allow you to set and get files to your Switch over FTP.
-- **Tesla Menu:** Initial overlay menu to be loaded by nx-ovlloader.
-- **Ultrahand Overlay:** "Tesla Menu enhanced" with more feactures.
-- **Ultra Status Monitor:** Enhanced sysmodule that show CPU, GPU, RAM and TEMP and more on screen.
+**NSPackBuilder** is a Windows desktop utility for assembling, maintaining and deploying Nintendo Switch homebrew/CFW packages. It downloads selected components, builds a local package and can optionally copy it to an SD card or send it to a Switch over FTP.
 
-# HOMEBREWS
-- **AIO Switch Updater:** Homebrew app to download and update CFWs, FWs and cheat codes.
-- **CNX Updater:** Homebrew app to download Firmware, games translations and mods.
-- **DBI:** Homebrew app to install NSP, NSZ, XCI and XCZ files and more features.
-- **Goldleaf:** File Manager homebrews app with others features.
-- **Hekate Toolbox:** Homebrew that allows you to change settings of the loader.
-- **HB Menu:** Program that allow the user to run the homebrews out of Applet Mode. A folder will be created \homebrews.
-- **Linkalho:** Homebrew app that will link NNID accounts offline.
-- **NX Activity Log:** homebrew app that displays more precise information about your play activity.
-- **NX Dump Tool:** homebrew app that create Dumps from cartriges.
-- **NXGallery:** Hhomebrew app to transfer your screenshots to your phone or pc.
-- **NX Themes Installer:** Homebrew app to install themes into Switch.
-- **ReverseNX-Tool:** Is an tool that takes advantage of SaltyNX patches function and manages creating ReverseNX patches. Requires SaltyNX.
-- **Tinfoil:** Is an store manager.
+> [!WARNING]
+> This tool can format drives, erase SD-card data, write directly to physical NAND devices and inject payloads. These operations can cause irreversible data loss or render a device unusable when performed incorrectly. Always verify the selected drive, keep independent backups and use the software only with hardware and files you are authorized to use.
 
-# FILES
-- **Atmosphere Exosphere file:** A base Custom Firmware for your .
-- **Atmosphere Override file:** Settings for the Atmospheresuch as change the buttons to access the Homebrews and change the buttons to start a game without cheats.
-- **Atmosphere System file:** Settings for the Atmosphere such as Enable USB 3.0 and more.
-- **HB Menu Theme:** Change the theme on HB Menu.
-- **Hosts file:** Is a list of 's servers that atmosphere use to prevent your Switch to be banned.
-- **Hekate IPL file:** Launch boot options on Hekate.
-- **Hekate Launch Icons:** Icons for Hekate Launch boots.
-- **Sys FTPd file:** Setting file for Sys FTPd.
-- **Tesla Config file:** Change the combination buttons to access the Tesla menu.
+## What it does
 
-# OPTIONALS
-- **Copy Pack to Drive:** It will copy all downloaded files to your SD card. Identical contents on the SDcard will be replaced.
-- **Format to FAT32:** Format your SDcard to Fat32 before copy all contents.
-- **Erase SDcard / Keep emuMMC:** When checked, it'll keep the emuMMC folder, but all remain folder and files will be deleted.
-- **Keep MODS:** Keeps the atmosphere\contents folder.
-- **Keep DBI Saves:** Keep the DBISaves folder.
-- **Keep NYX:** Keep the bootloader\nyx.ini file.
-- **Keep THEMES:** Keep the THEMES folder. Alter start the Switch you'll need to apply the theme again.
-- **Release Versions:** Display the most current Release Version of each item in the github repository.
-- **Keep Temp. Folder:** It'll keep the "Downloaded Files" folder storage at you computer.
-- **Open Pack Folder:** Open the folder where the Pack was created.
-- **Close After Finished:** Close the program when everything is finished.
+- Select packages, sysmodules, homebrew applications and configuration files.
+- Download release assets from configured repositories and show versions/download counts where available.
+- Build a local package directory with progress and size information.
+- Copy the package to a selected drive, optionally preserving selected folders.
+- Format a drive as FAT32 or erase its contents while retaining selected data.
+- Create and restore SD-card image files.
+- Add a boot logo using the bundled Python scripts.
+- Send a completed package to a Switch-compatible FTP server.
+- Detect a Switch in RCM mode and inject a selected payload.
+- Back up and restore NAND partitions through Hekate, with optional 7-Zip compression.
+- Dump keys over FTP and migrate an emuNAND between key sets when required files are available.
 
-# BOOTLOGO
-- **Add:** Select and add a customized Bootlogo into your package.
+## Package contents
 
-# SDCARD
-- **Create Image:** Create a Image File from this drive above.
-- **Restore Image:** Restore a Image File into drive above.
-- **Format now:** Format now your drive to FAT32 with unit size of 64k.
+The **Packages** area provides configured complete distributions such as Kefir, Ultra, CNX, GNX and HATS.
 
+The **Sysmodules** area provides optional system modules and overlays such as Tesla Menu, Ultrahand Overlay, sys-clk, MissionControl, SaltyNX, NX-ovlloader, Sys-FTPD and Status Monitor.
 
-***For suggestions or comments:*** <a href="mailto:tellme.dingbat878@passfwd.com">contact me</a>
+The **Homebrew and files** area provides applications and supporting files such as DBI, Goldleaf, Hekate Toolbox, Linkalho, NX Activity Log, NX Dump Tool, NX Gallery, theme installers, hosts files, Hekate IPL files, boot files, patches and embedded configuration archives.
+
+Available items and versions are defined by the configured repositories and may change over time.
+
+## Typical workflow
+
+1. Select the components to include.
+2. Choose a local working directory.
+3. Optionally enable **Release Versions** to query current release metadata.
+4. Click **Start** to download assets and build the package.
+5. Inspect the result with **Open Pack Folder**, copy it to an SD card with **Copy Pack to Drive**, or upload it with **Send over FTP**.
+6. Verify the generated package before using it on a console.
+
+**Repo** downloads the latest release of selected repository items without running the complete SD-card workflow. **Stop** cancels an active download operation, and **Restart** resets the current state.
+
+## SD-card operations
+
+The SD-card page provides:
+
+- **Format now** — formats the selected drive as FAT32 and deletes all data on it.
+- **Create Image** — creates an image file from the selected drive.
+- **Restore Image** — writes an image file back to the selected drive.
+- Drive-list refresh and safe-eject actions.
+
+During package creation, **Format SDCard** and **Erase SDcard / Keep emuMMC** are separate options. Formatting uses the Windows formatting API; erasing removes package data while allowing configured folders such as emuMMC, Nintendo, atmosphere\contents, DBISaves, bootloader\nyx.ini and theme data to be retained.
+
+Always verify the selected drive letter. Removable-drive letters can change when media is connected or disconnected.
+
+## Boot logos and payloads
+
+The **Bootlogo** page adds a bundled boot-logo asset to a selected firmware package. NSPackBuilder invokes the included Python runtime/scripts to generate the required files.
+
+The **Boot / Payload** page monitors USB for a Switch in RCM mode, lists .bin payloads found in the application's payloads directory and uses TegraRcmSmash.exe to inject the selected payload.
+
+## NAND and emuNAND tools
+
+Advanced tools can:
+
+- Back up selected NAND partitions with progress, speed and ETA information.
+- Restore a NAND partition from a backup after explicit confirmation.
+- Validate NAND backups and report detected partition information.
+- Inject Hekate, wait for the NAND device to appear in Windows and perform the requested operation.
+- Dump Switch keys with Lockpick_RCM_Pro, retrieve them over FTP and save prod.keys/title.keys.
+- Convert an emuNAND using old and new key sets.
+
+These operations require the appropriate Hekate, Lockpick and TegraRcmSmash files, a compatible Switch setup and, for physical NAND access, elevated Windows privileges. Read the bundled user guide first.
+
+## FTP transfer
+
+The FTP dialog supports anonymous or authenticated connections, configurable host/port, remote-directory navigation, overwrite/skip decisions and recursive package upload. Preferences are stored in SendFTP.ini beside the executable. Treat that file as sensitive when it contains credentials.
+
+## Requirements
+
+- Windows 10 or later is recommended.
+- A 32-bit Windows build of NSPackBuilder and its accompanying files.
+- Internet access for repository and release downloads.
+- A local working directory with sufficient free space.
+- Administrator privileges for formatting, physical-drive access and some NAND operations.
+- A compatible SD-card reader for SD-card workflows.
+- Required payloads and helper executables for RCM/NAND features.
+
+Keep the expected folder structure intact when moving the executable. The distributed Win32\\Debug/Win32\\Release folders contain helper files such as TegraRcmSmash.exe, fat32format.exe, payloads, DLLs and the bundled Python runtime.
+
+## Included documentation
+
+Detailed guides are available in the docs directory:
+
+- [Portuguese user guide](docs/NSPackBuilder_OGuiaDeUso_PtBr.pdf)
+- [English user guide](docs/NSPackBuilder_UserGuide_En.pdf)
+
+The application can also extract and open these guides through its **Manual** action.
+
+## Building from source
+
+NSPackBuilder is a Delphi VCL application. The main project file is NSPackBuilder.dproj, the entry point is NSPackBuilder.dpr, and source units are in the sources directory.
+
+To build in RAD Studio:
+
+1. Open NSPackBuilder.dproj.
+2. Select the **Win32** target platform.
+3. Configure the Delphi and DevExpress dependencies referenced by the project.
+4. Verify that the docs, resources, payload and helper-runtime paths are available.
+5. Build the **Release** configuration and distribute the executable with its required runtime files.
+
+The project embeds some resources into the executable while other assets remain external. A successful compilation alone does not produce a complete portable distribution.
+
+## Project layout
+
+| Path | Purpose |
+| --- | --- |
+| sources/ | Delphi forms, UI logic, download/package workflow and NAND/FTP code |
+| resources/ | Embedded package archives and configuration resources |
+| Python/ | Bundled Python runtime and boot-image scripts |
+| docs/ | User guides and guide images |
+| image/, icons/ | UI artwork and application icons |
+| Win32/Debug/, Win32/Release/ | Build output and runtime distribution files |
+| Dcu/ | Delphi compiled unit output |
+
+## Credits and support
+
+NSPackBuilder combines files and release assets from multiple independent open-source projects. Their licenses and usage conditions continue to apply to the corresponding components.
+
+For suggestions, bug reports or feedback, use the project's [GitHub repository](https://github.com/OneEyeBlack/NSPackBuilder).
 
 ![Downloads](https://img.shields.io/github/downloads/OneEyeBlack/NSPackBuilder/total)
-![Stars](https://img.shields.io/github/stars/OneEyeBlack)
+![Stars](https://img.shields.io/github/stars/OneEyeBlack/NSPackBuilder)
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=75&section=footer"/>
