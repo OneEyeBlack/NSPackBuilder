@@ -92,15 +92,6 @@ The FTP dialog supports anonymous or authenticated connections, configurable hos
 
 Keep the expected folder structure intact when moving the executable. The distributed Win32\\Debug/Win32\\Release folders contain helper files such as TegraRcmSmash.exe, fat32format.exe, payloads, DLLs and the bundled Python runtime.
 
-## Included documentation
-
-Detailed guides are available in the docs directory:
-
-- [Portuguese user guide](docs/NSPackBuilder_OGuiaDeUso_PtBr.pdf)
-- [English user guide](docs/NSPackBuilder_UserGuide_En.pdf)
-
-The application can also extract and open these guides through its **Manual** action.
-
 ## Building from source
 
 NSPackBuilder is a Delphi VCL application. The main project file is NSPackBuilder.dproj, the entry point is NSPackBuilder.dpr, and source units are in the sources directory.

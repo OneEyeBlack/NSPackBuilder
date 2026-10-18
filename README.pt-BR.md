@@ -89,13 +89,6 @@ O diálogo FTP oferece conexão anônima ou autenticada, host/porta configuráve
 
 Mantenha a estrutura de pastas ao mover o executável. As pastas `Win32\\Debug` e `Win32\\Release` contêm arquivos auxiliares como `TegraRcmSmash.exe`, `fat32format.exe`, payloads, DLLs e o runtime Python.
 
-## Documentação incluída
-
-- [Manual em português](docs/NSPackBuilder_OGuiaDeUso_PtBr.pdf)
-- [Manual em inglês](docs/NSPackBuilder_UserGuide_En.pdf)
-
-O próprio programa também pode extrair e abrir os manuais através da opção **Manual**.
-
 ## Compilação
 
 O NSPackBuilder é uma aplicação Delphi VCL. Abra `NSPackBuilder.dproj` no RAD Studio, selecione a plataforma **Win32**, configure as dependências Delphi/DevExpress e compile a configuração **Release**.
